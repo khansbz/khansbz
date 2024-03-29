@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 You can reach me at my email: khanshahbaaz7788@gmail.com
 - 😄 Pronouns: He/Him (forever)
-- ⚡ Fun fact: I haven't got a clue about Github
+- ⚡ Fun fact: I don't have a technical background. 
 
 <!---
 khansbz/khansbz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
