@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khansbz
+- 👋 Hi, I’m ShahbaazKhan
 - 👀 I’m interested in helping stakeholders draw insights from large datasets.
 - 🌱 I’m currently learning SQL and R programming languauge.
 - 💞️ I’m looking to collaborate on data analysis
